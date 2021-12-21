@@ -1,0 +1,59 @@
+.titulo {
+        font-size: 50px;
+   
+    color:black;
+    
+    text-transform: uppercase;
+}
+body {
+    background-color: rgb(42, 129, 78);
+
+}
+
+.blanco {
+    color: white;
+    font-style: italic;
+    font-size: 25px;
+}
+
+.crema {
+    color: rgb(212, 214, 111);
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.naranja {
+    color: rgb(218, 128, 12);
+    font-style:oblique;
+    font-size: 25px;
+}
+
+.gris {
+    color: gray;
+    font-style: inherit;
+    font-size: 25px;
+}
+
+.amarillo {
+    color: yellow;
+    font-style: initial;
+    font-size: 25px;
+}
+
+.rosa {
+    color:rgb(189, 37, 62);
+    font-family: monospace;
+    font-size: 25px;
+}
+
+.morado {
+    color: purple;
+    font-style: unset;
+    font-size: 25px;
+}
+
+.rojo {
+    color: red;
+    font-family: sans-serif;
+    font-size: 25px;
+}

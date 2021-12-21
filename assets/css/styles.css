@@ -1,0 +1,41 @@
+ /* Comentarios en CSS*/
+
+
+.encabezado {
+    /* font size tamaño de fuente
+    medidas comunes: px, %, em, rem */
+    font-size: 72px;
+    /*color de fuente*/
+    color: rgb(255, 20, 90);
+    /* background-color es para el color de fondo */
+    background-color: mediumslateblue;
+    /* text-align: nos permite alinear texto*/
+    text-align: center;
+    text-transform: uppercase;
+}
+body {
+    background-color: rgba(224, 189, 231, 0.945);
+
+}
+
+#texto {
+    font-size: 24px;
+    color: blue;
+    background-color: crimson;
+    font-style: italic; /*font-style cambia la fuente del texto*/
+}
+
+.texto { /*por especificidad y jerarquia se aplica el color de la clase*/
+    color: white;
+    background-color: black;
+}
+
+p {
+    color:chocolate;
+    background-color: burlywood;
+}
+
+p {
+    color: rgb(102, 14, 79);
+    background-color:teal;
+}

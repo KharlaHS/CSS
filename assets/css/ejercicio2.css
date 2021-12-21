@@ -1,0 +1,32 @@
+body{
+    background-color: paleturquoise;
+    text-align: justify;
+    
+}
+.subtitulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.texto{
+    font-family:unset;
+    text-indent: 40px;
+}
+.naranja{
+    color: rgb(247, 37, 9);
+    font-style: italic;
+}
+.numero{
+    color: orangered;
+}
+.verde{
+    color: green;
+    background-color: honeydew;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.rojo{
+    color: red;
+}
+.pie{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
